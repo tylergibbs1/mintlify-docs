@@ -2,7 +2,11 @@
 
 Use the starter kit to get your docs deployed and ready to customize.
 
-Click the green **Use this template** button at the top of this repo to copy the Mintlify starter kit. The starter kit contains examples with
+Click the green **Use this template** button at the top of this repo to copy the Mintlify starter kit, then **[follow the full quickstart guide](https://starter.mintlify.com/quickstart)**.
+
+## What's included
+
+The starter kit contains examples with
 
 - Guide pages
 - Navigation
@@ -10,7 +14,7 @@ Click the green **Use this template** button at the top of this repo to copy the
 - API reference pages
 - Use of popular components
 
-**[Follow the full quickstart guide](https://starter.mintlify.com/quickstart)**
+Site settings and navigation live in [`docs.json`](docs.json).
 
 ## Development
 
@@ -41,3 +45,8 @@ Install our GitHub app from your [dashboard](https://dashboard.mintlify.com/sett
 
 ### Resources
 - [Mintlify documentation](https://mintlify.com/docs)
+- [Local development guide](development.mdx)
+
+## License
+
+[MIT](LICENSE)
